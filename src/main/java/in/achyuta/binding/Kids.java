@@ -14,6 +14,7 @@ import lombok.Setter;
 public class Kids {
 	
 	private Long ssn;
+	private Long caseNum;
 	private Integer userId;
 	private List<Kid> allKids;
 
